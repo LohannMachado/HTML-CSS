@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* Para funcionar letras brasileiras */
+
+body {
+    background-color: rgb(32, 32, 32);
+    color: white;
+    font-size: 12pt;
+    font-family: Arial;
+    text-align: center;
+}
+
+a {
+    color: white;
+}
